@@ -1,0 +1,5 @@
+D:\C Sharp\MDIPaint\ClassLibrary1\obj\Debug\LibraryForPaint.csproj.CoreCompileInputs.cache
+D:\C Sharp\MDIPaint\ClassLibrary1\bin\Debug\LibraryForPaint.dll
+D:\C Sharp\MDIPaint\ClassLibrary1\bin\Debug\LibraryForPaint.pdb
+D:\C Sharp\MDIPaint\ClassLibrary1\obj\Debug\LibraryForPaint.dll
+D:\C Sharp\MDIPaint\ClassLibrary1\obj\Debug\LibraryForPaint.pdb

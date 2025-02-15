@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff348983-5ee5-4f42-a8f5-db7eb43e1734": {
+      "ProjectGuid": "ff348983-5ee5-4f42-a8f5-db7eb43e1734",
+      "DisplayName": "MDIPaint",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "0a6544e0-17e3-4c16-a117-e92b7cad9cfc": {
+      "ProjectGuid": "0a6544e0-17e3-4c16-a117-e92b7cad9cfc",
+      "DisplayName": "LibraryForPaint",
+      "ColorIndex": 1
+    },
+    "569b03bb-4c4b-498a-a3ea-b6bad0ebeb79": {
+      "ProjectGuid": "569b03bb-4c4b-498a-a3ea-b6bad0ebeb79",
+      "DisplayName": "LibraryForPaint",
+      "ColorIndex": 2
+    },
+    "023c5400-00a4-4a50-9c7a-d96d6c36f14c": {
+      "ProjectGuid": "023c5400-00a4-4a50-9c7a-d96d6c36f14c",
+      "DisplayName": "LibraryForPaint",
+      "ColorIndex": 3
+    },
+    "03957929-6ac0-4e99-bdfc-1471234b0e22": {
+      "ProjectGuid": "03957929-6ac0-4e99-bdfc-1471234b0e22",
+      "DisplayName": "LibraryForPaint",
+      "ColorIndex": 4
+    },
+    "7d7ab12f-980b-4986-ab4b-21510f57cf36": {
+      "ProjectGuid": "7d7ab12f-980b-4986-ab4b-21510f57cf36",
+      "DisplayName": "FirstAddon",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

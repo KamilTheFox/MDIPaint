@@ -1,0 +1,13 @@
+D:\C Sharp\MDIPaint\FirstAddon\bin\Debug\FirstAddon.dll
+D:\C Sharp\MDIPaint\FirstAddon\bin\Debug\FirstAddon.pdb
+D:\C Sharp\MDIPaint\FirstAddon\bin\Debug\LibraryForPaint.dll
+D:\C Sharp\MDIPaint\FirstAddon\bin\Debug\LibraryForPaint.pdb
+D:\C Sharp\MDIPaint\FirstAddon\obj\Debug\FirstAddon.csproj.AssemblyReference.cache
+D:\C Sharp\MDIPaint\FirstAddon\obj\Debug\FirstAddon.csproj.CoreCompileInputs.cache
+D:\C Sharp\MDIPaint\FirstAddon\obj\Debug\FirstAddon.csproj.CopyComplete
+D:\C Sharp\MDIPaint\FirstAddon\obj\Debug\FirstAddon.dll
+D:\C Sharp\MDIPaint\FirstAddon\obj\Debug\FirstAddon.pdb
+D:\C Sharp\MDIPaint\FirstAddon\obj\Debug\FirstAddon.RectangleForm.resources
+D:\C Sharp\MDIPaint\FirstAddon\obj\Debug\FirstAddon.csproj.GenerateResource.cache
+D:\C Sharp\MDIPaint\FirstAddon\obj\Debug\FirstAddon.CircleForm.resources
+D:\C Sharp\MDIPaint\FirstAddon\obj\Debug\FirstAddon.TextForm.resources
